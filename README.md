@@ -1,0 +1,1 @@
+The HR Analytics Dashboard provides insights into various aspects of employee data, including headcount, attrition, demographics, income, job satisfaction, and more. This dashboard is designed to help HR professionals analyze workforce trends and make data-driven decisions.
